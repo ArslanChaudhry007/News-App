@@ -1,21 +1,13 @@
 # News App
 
  Retrofit
- 
  Coroutines
- 
  ViewModel
- 
  Live Data
- 
  Jetpack Navigation
- 
  Room Database
- 
  Recycler View
- 
  Pagination
- 
  Glide
 
 # Screenshots From NewsApp

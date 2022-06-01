@@ -1,14 +1,14 @@
 # News App
 
- Retrofit
- Coroutines
- ViewModel
- Live Data
- Jetpack Navigation
- Room Database
- Recycler View
- Pagination
- Glide
+ *Retrofit
+ *Coroutines
+ *ViewModel
+ *Live Data
+ *Jetpack Navigation
+ *Room Database
+ *Recycler View
+ *Pagination
+ *Glide
 
 # Screenshots From NewsApp
 ![newsApp1](https://user-images.githubusercontent.com/51151820/171380553-45cbd413-22c5-4c8f-9e67-3fc7ff830130.PNG)
